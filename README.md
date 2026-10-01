@@ -1,2 +1,4 @@
-# Financial-Loan
-Python数据清洗+SQL数据分析+Power BI交互式看板
+# 美国商业银行坏账分析
+本项目仅用于学习用途，不用于商业用途；未对任何原始交易数值进行伪造或篡改。
+## 一、项目简介
+基于数据集\underline{financial_loan.csv}
